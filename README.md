@@ -31,8 +31,6 @@ A user-friendly PowerShell script that allows you to install, uninstall, and man
 - **Install/Uninstall**: Click the "Install" or "Uninstall" button to manage your applications.
 - **Save/Load Selection**: Use the "Save" button to save your current selection to a file, and the "Load" button to load a previous selection.
 
-## Tab Control Example
-
 ## Example Applications
 
 Here are some examples of applications included in the installer:
