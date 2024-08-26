@@ -1,6 +1,6 @@
 A user-friendly PowerShell script that allows you to install, uninstall, and manage applications on your Windows system using the `winget` package manager. The script organizes applications into categories, making it easy to find and install the software you need.
 
-![PowerShell GUI](https://ibb.co/XL2QR2t)
+![PowerShell GUI](https://i.ibb.co/LRkF7k1/image-2.png)
 
 ## Features
 
